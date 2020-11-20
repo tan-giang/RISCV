@@ -1,1 +1,1 @@
-# miniMIPS
+# RISCV
